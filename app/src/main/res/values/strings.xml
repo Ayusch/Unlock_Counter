@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Unlock Counter</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_unlock_views">UnlockViews</string>
 </resources>

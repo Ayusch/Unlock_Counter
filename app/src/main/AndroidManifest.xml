@@ -26,8 +26,12 @@
             <intent-filter>
                 <action android:name="android.intent.action.USER_PRESENT" />
             </intent-filter>
-
         </receiver>
+
+        <activity
+            android:name=".UnlockViews"
+            android:label="@string/title_activity_unlock_views"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
